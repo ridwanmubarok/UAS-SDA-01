@@ -37,6 +37,7 @@ Program ini menggunakan sebuah class `Orang` untuk menyimpan data nama dan alama
 
 
 ### Hasil
+![image](https://github.com/user-attachments/assets/913468bc-beae-442e-9bc1-0368938a6044)
 
 
 ## Soal 2 - Program Binary Search
@@ -60,3 +61,4 @@ Implementasi program C++ yang melakukan pencarian menggunakan metode Binary Sear
 Pastikan Anda memiliki compiler C++ yang terinstal di sistem Anda untuk menjalankan program-program ini.
 
 ### Hasil
+![image](https://github.com/user-attachments/assets/79717e75-1cb5-4d95-a36c-41c9724da9ac)
